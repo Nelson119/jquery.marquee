@@ -1,0 +1,23 @@
+{
+  "name": "jquery.marquee",
+  "description": "marquee",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "authors": [
+    ""
+  ],
+  "license": "Apache",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

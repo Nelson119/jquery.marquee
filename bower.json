@@ -1,6 +1,6 @@
 {
   "name": "jqmq",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "title": "jQuery Marquee",
   "description": "jQuery Marquee",
   "main": "js/jquery.marquee.js",

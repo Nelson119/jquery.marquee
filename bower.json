@@ -1,7 +1,8 @@
 {
   "name": "jquery.marquee",
+  "version": "1.0.01",
   "description": "marquee",
-  "main": "",
+  "main": "js/jquery.marquee.js",
   "moduleType": [
     "es6"
   ],
